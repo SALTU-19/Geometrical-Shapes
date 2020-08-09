@@ -1,0 +1,1 @@
+Geometric shapes are created and some calculations are made according to the instructions given in commands.txt. The obtained data is printed to output.txt.
